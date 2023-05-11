@@ -1,4 +1,4 @@
-# spring_midterm_bookshop
+# spring_final_bookshop
 This is my midterm project - BookShop.
 I write this application in Java using Spring Boot.
 
